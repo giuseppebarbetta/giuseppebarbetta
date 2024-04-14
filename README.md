@@ -15,7 +15,7 @@ I'm Giuseppe Barbetta, I'm a Front End developer and I'm currently learning:
 <a href="https://www.instagram.com/eusougiu_">
   <img width="107px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insstagram-logo">
 </a>
-<a href="#inserirMeuLindkedin">
+<a href="https://www.linkedin.com/in/giuseppebarbetta/">
   <img width="107px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
 </a>
 <br><br>
