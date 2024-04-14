@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello World 👋
 
 I'm Giuseppe Barbetta, I'm a Front End developer and I'm currently learning:
 <br>
