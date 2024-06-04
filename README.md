@@ -1,8 +1,9 @@
 ### Hello World 👋
 
-I'm Giuseppe Barbetta, I'm a Front End developer and I'm currently learning:
+I'm Giuseppe Barbetta, I'm a Full Stack developer.
 <br>
 
+<h2>Skills:</h2>
 <section display="block" line-height="35px">
   <img width="98px" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="httml-logo">
   <img width="98px" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
@@ -10,7 +11,7 @@ I'm Giuseppe Barbetta, I'm a Front End developer and I'm currently learning:
   <img width="98px" height="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo">
   <img width="98px" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 
-<br><br>
+<br>
 <strong><h3>Connect with me:</h3></strong>
 <a href="https://www.instagram.com/eusougiu_">
   <img width="107px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insstagram-logo">
